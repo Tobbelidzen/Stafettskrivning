@@ -32,7 +32,7 @@ Person 6 skriver här:
 
 Person 7 skriver här:
 =======================
-
+"Vi måste orientera oss. Jag ser ett träd en bit bort."
 
 
 Person 8 skriver här:
